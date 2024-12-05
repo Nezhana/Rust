@@ -18,7 +18,9 @@ impl CalculatorApp {
 
     fn calculate(&mut self) {
         let trimmed_input = self.input.trim();
-        let parsed_result = meval::eval_str(trimmed_input);
+
+        // let parsed_result = meval::eval_str(trimmed_input);
+        let parsed_result = Self::parse_and_calculate(trimmed_input);
 
         match parsed_result {
             Ok(value) => {
@@ -28,9 +30,37 @@ impl CalculatorApp {
                     self.memory.remove(0);
                 }
             }
-            Err(_) => {
-                self.result = "Error: Invalid Input".to_string();
+            Err(e) => {
+                self.result = e.to_string();
             }
+        }
+    }
+
+    fn parse_and_calculate(input: &str) -> Result<f64, String> {
+        // Split the input into parts
+        let parts: Vec<&str> = input.split_whitespace().collect();
+    
+        if parts.len() != 3 {
+            return Err("Input must be in the format: number operator number".to_string());
+        }
+    
+        // Parse the operands
+        let left = parts[0].parse::<f64>().map_err(|_| "Invalid left operand")?;
+        let right = parts[2].parse::<f64>().map_err(|_| "Invalid right operand")?;
+    
+        // Get the operator and perform the calculation
+        match parts[1] {
+            "+" => Ok(left + right),
+            "-" => Ok(left - right),
+            "*" => Ok(left * right),
+            "/" => {
+                if right == 0.0 {
+                    Err("Cannot divide by zero".to_string())
+                } else {
+                    Ok(left / right)
+                }
+            }
+            _ => Err("Unsupported operator. Use +, -, *, or /.".to_string()),
         }
     }
 }
