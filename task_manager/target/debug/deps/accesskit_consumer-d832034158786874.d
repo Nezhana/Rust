@@ -1,0 +1,10 @@
+D:\Programming\rust\task_manager\target\debug\deps\libaccesskit_consumer-d832034158786874.rmeta: C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src/lib.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src\tree.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src\node.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src\filters.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src\iterators.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src\text.rs
+
+D:\Programming\rust\task_manager\target\debug\deps\accesskit_consumer-d832034158786874.d: C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src/lib.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src\tree.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src\node.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src\filters.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src\iterators.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src\text.rs
+
+C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src/lib.rs:
+C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src\tree.rs:
+C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src\node.rs:
+C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src\filters.rs:
+C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src\iterators.rs:
+C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\accesskit_consumer-0.24.3\src\text.rs:
