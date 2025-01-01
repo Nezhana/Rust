@@ -1,0 +1,11 @@
+D:\Programming\rust\client_auth\target\wasm32-unknown-unknown\release\deps\libgloo_file-ce748b1108e317e2.rmeta: C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\lib.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\blob.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\file_list.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\file_reader.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\object_url.rs
+
+D:\Programming\rust\client_auth\target\wasm32-unknown-unknown\release\deps\libgloo_file-ce748b1108e317e2.rlib: C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\lib.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\blob.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\file_list.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\file_reader.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\object_url.rs
+
+D:\Programming\rust\client_auth\target\wasm32-unknown-unknown\release\deps\gloo_file-ce748b1108e317e2.d: C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\lib.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\blob.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\file_list.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\file_reader.rs C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\object_url.rs
+
+C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\lib.rs:
+C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\blob.rs:
+C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\file_list.rs:
+C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\file_reader.rs:
+C:\Users\Snezhok\.cargo\registry\src\index.crates.io-6f17d22bba15001f\gloo-file-0.2.3\src\object_url.rs:
